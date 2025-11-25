@@ -1,0 +1,8 @@
+[submodule "Sourcetrail"]
+	path = Sourcetrail
+	url = https://github.com/CoatiSoftware/Sourcetrail.git
+	branch = master
+[submodule "3rdParty/src/llvm-project"]
+	path = 3rdParty/src/llvm-project
+	url = https://github.com/llvm/llvm-project.git
+	branch = llvmorg-11.0.0-gcc11-fix
